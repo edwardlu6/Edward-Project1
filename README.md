@@ -30,11 +30,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 
+https://github.com/edwardlu6/Project1/assets/134900051/b03b7213-f4c6-4f89-a8e6-920c35dcfeca
+
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-Challenges in almost every exercises. Most contents were not covered during class. I almost learn independently!
+I encountered challenges in almost every exercises. Most contents were not covered during class. I almost learn independently!
 
 ## License
 
